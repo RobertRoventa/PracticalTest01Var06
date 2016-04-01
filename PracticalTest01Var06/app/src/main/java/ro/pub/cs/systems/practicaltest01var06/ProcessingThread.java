@@ -56,4 +56,4 @@ public class ProcessingThread  extends Thread {
         isRunning = false;
     }
 }
-}
+
